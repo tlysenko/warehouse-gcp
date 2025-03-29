@@ -1,2 +1,1 @@
-# warehouse-gcp
-GCP Data Warehouse
+# GCP Data Warehouse
